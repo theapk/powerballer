@@ -1,2 +1,3 @@
 # powerballer
-TBD - port of https://github.com/Capncavedan/Powerball-numbers to python
+
+Requires a paid PRO subscription to: https://rapidapi.com/avoratechnology/api/powerball/details
